@@ -469,3 +469,4 @@ C:\Users\Lorenzo\Desktop\CRUD LorenzoGanzella\ProdutosApi\obj\Debug\net9.0\refin
 C:\Users\Lorenzo\Desktop\CRUD LorenzoGanzella\ProdutosApi\obj\Debug\net9.0\ProdutosApi.pdb
 C:\Users\Lorenzo\Desktop\CRUD LorenzoGanzella\ProdutosApi\obj\Debug\net9.0\ProdutosApi.genruntimeconfig.cache
 C:\Users\Lorenzo\Desktop\CRUD LorenzoGanzella\ProdutosApi\obj\Debug\net9.0\ref\ProdutosApi.dll
+C:\Users\Lorenzo\Desktop\CRUD LorenzoGanzella\ProdutosApi\obj\Debug\net9.0\ProdutosApi.sourcelink.json
